@@ -1,0 +1,14 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Literature Review.aux
+The style file: IEEEtran.bst
+Database file #1: DB.bib
+I was expecting a `,' or a `}'---line 27 of file DB.bib
+ : 
+ : @article{sharkey2012granny,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+
+Done.
+(There was 1 error message)
